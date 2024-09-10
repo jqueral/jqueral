@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jqueral
-- 👀 I’m interested in Markov chains
+- 👋 hi, I’m @jqueral
+- 👀 i’m interested in Markov chains
 - 🌱 information systems engineering undergrad at @UTN
-- 📫 How to reach me:
+- 📫 how to reach me:
 - 🐦 @julianoqueral
 - 
 
